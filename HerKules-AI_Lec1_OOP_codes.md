@@ -5,7 +5,8 @@
 <img width="551" alt="截屏2021-09-18 14 40 33" src="https://user-images.githubusercontent.com/76484768/133879076-0f7a4c98-dd0e-47f2-9bf2-91193d349c6d.png">
 
 
-### 2. 继承 https://www.tutorialspoint.com/python/python_classes_objects.htm（和1是同一网页）
+### 2. 继承 https://www.tutorialspoint.com/python/python_classes_objects.htm
+（和1是同一网页）
 
 <img width="475" alt="截屏2021-09-18 14 41 09" src="https://user-images.githubusercontent.com/76484768/133879090-115f5482-b78f-4a92-ac46-b48faf1e0c6d.png">
 
